@@ -1,2 +1,2 @@
-<?php echo "ini index dot php";
+<?php echo "ini index dot php hi";
 ?>
